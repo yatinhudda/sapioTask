@@ -1,14 +1,14 @@
 .card_parent{
     margin-top: 20px;
+    width:100%;
 }
 .card_data{
     border-radius: 20px;
-    height: 200px;
+    height: 150px;
     margin-left: 250px;
     margin-right: 250px;
     text-align: center;
     background-image: linear-gradient(to right, rgb(51, 45, 45) , rgb(11, 72, 80));
     padding-top: 80px;
-    width: auto;
 }
 
